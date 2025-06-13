@@ -10,7 +10,6 @@
 - 💻 Full-stack developer with a focus on **Django** and strong understanding of **MERN** stack  
 - 🧠 Currently improving skills in **Data Structures & Algorithms (DSA)**  
 - 🔭 Working on exciting **web and app development** projects  
-
 - 💬 Ask me about **Django, Core Java, Python, and DSA**  
 - 📫 Reach me at **shivkant639624@gmail.com**  
 - 📄 [View My Resume](https://drive.google.com/drive/u/1/folders/14Em2sXH0NoRNLuP4zHxldU91W7wI5kVh)  
@@ -33,12 +32,6 @@
   <a href="https://leetcode.com/u/shivkant252/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://www.geeksforgeeks.org/user/shivkantllj0/" target="_blank">
-    <img src="https://img.shields.io/badge/GFG-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
-  <a href="https://www.naukri.com/code360/profile/shivkantpal" target="_blank">
-    <img src="https://img.shields.io/badge/Code360-orange?style=for-the-badge&logo=codingninjas&logoColor=white" />
-  </a>
 </p>
 
 ---
@@ -47,6 +40,40 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,django,java,js,react,nodejs,html,css,tailwind,mysql,git,github,vscode,figma" />
+</p>
+
+---
+
+### 📈 Coding Profiles (Full-Width Graphs)
+
+#### 🟠 LeetCode (Daily Progress & Contest Stats)
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/shivkant252?theme=dark&ext=contest" alt="LeetCode Stats" width="100%" />
+</p>
+
+---
+
+#### 🟢 GeeksforGeeks Profile
+
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/user/shivkantllj0/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GFG Profile" width="120" />
+    <br />
+    <strong>Visit My GFG Profile</strong>
+  </a>
+</p>
+
+---
+
+#### 🔵 Coding Ninjas Code360
+
+<p align="center">
+  <a href="https://www.naukri.com/code360/profile/shivkantpal" target="_blank">
+    <img src="https://ninjasfiles.s3.amazonaws.com/0000000000000723.jpg" alt="Coding Ninjas Logo" width="120" />
+    <br />
+    <strong>View My Code360 Progress</strong>
+  </a>
 </p>
 
 ---
@@ -61,17 +88,7 @@
 
 ---
 
-### 📈 LeetCode Stats (Graph)
-
-> You can generate a LeetCode heatmap using [https://leetcode-stats.vercel.app](https://leetcode-stats.vercel.app) or [https://leetcard.jacoblin.cool](https://leetcard.jacoblin.cool)
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/shivkant252?ext=contest" alt="LeetCode Stats" />
-</p>
-
----
-
-### 🔥 GitHub Activity Graph
+### 🔥 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivkantx&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true" />
