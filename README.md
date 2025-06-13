@@ -33,6 +33,12 @@
   <a href="https://leetcode.com/u/shivkant252/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
+  <a href="https://www.geeksforgeeks.org/user/shivkantllj0/" target="_blank">
+    <img src="https://img.shields.io/badge/GFG-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  <a href="https://www.naukri.com/code360/profile/shivkantpal" target="_blank">
+    <img src="https://img.shields.io/badge/Code360-orange?style=for-the-badge&logo=codingninjas&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -55,7 +61,17 @@
 
 ---
 
-### 🔥 Activity Graph
+### 📈 LeetCode Stats (Graph)
+
+> You can generate a LeetCode heatmap using [https://leetcode-stats.vercel.app](https://leetcode-stats.vercel.app) or [https://leetcard.jacoblin.cool](https://leetcard.jacoblin.cool)
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/shivkant252?ext=contest" alt="LeetCode Stats" />
+</p>
+
+---
+
+### 🔥 GitHub Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivkantx&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true" />
