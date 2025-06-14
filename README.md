@@ -10,7 +10,7 @@
 - 💻 Full-stack developer with a focus on **Django** and strong understanding of **MERN** stack  
 - 🧠 Currently improving skills in **Data Structures & Algorithms (DSA)**  
 - 🔭 Working on exciting **web and app development** projects  
-- 💬 Ask me about **Django, Core Java, Python, and DSA**  
+- 💬 Ask me about **React js, JavaScript Core Java, Python, and DSA**  
 - 📫 Reach me at **shivkant639624@gmail.com**  
 - 📄 [View My Resume](https://drive.google.com/drive/u/1/folders/14Em2sXH0NoRNLuP4zHxldU91W7wI5kVh)  
 - ⚡ Fun fact: I'm a human debugger — always finding and fixing issues!
@@ -54,7 +54,7 @@
 
 ---
 
-### 🔥 Activity Graph
+### 🔥 GitHub Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivkantx&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true" />
@@ -62,26 +62,37 @@
 
 ---
 
-### 👨‍💻 Coding Profiles
+## 🧠 Coding Profiles
 
-<!-- LeetCode Stats Graph -->
+---
+
+### 🟧 LeetCode
+
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/shivkant252?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" width="100%" />
+  <a href="https://leetcode.com/u/shivkant252/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/shivkant252?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" width="85%" height="250px" />
+  </a>
 </p>
 
-<!-- GFG Badge -->
+---
+
+### 🟩 GeeksforGeeks
+
 <p align="center">
   <a href="https://www.geeksforgeeks.org/user/shivkantllj0/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="110px" alt="GFG Logo" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="90px" alt="GFG Logo" />
     <br/>
     <img src="https://img.shields.io/badge/Visit-GFG_Profile-brightgreen?style=for-the-badge" />
   </a>
 </p>
 
-<!-- Code360 Badge -->
+---
+
+### 🟠 Coding Ninjas (Code360)
+
 <p align="center">
   <a href="https://www.naukri.com/code360/profile/shivkantpal" target="_blank">
-    <img src="https://ninjasfiles.s3.amazonaws.com/0000000000000723.jpg" width="110px" alt="Coding Ninjas Logo" />
+    <img src="https://ninjasfiles.s3.amazonaws.com/0000000000000723.jpg" width="90px" alt="Coding Ninjas Logo" />
     <br/>
     <img src="https://img.shields.io/badge/View-My_Code360_Profile-orange?style=for-the-badge" />
   </a>
