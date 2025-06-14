@@ -70,7 +70,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/shivkant252/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/shivkant252?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" width="85%" height="250px" />
+    <img src="https://leetcard.jacoblin.cool/shivkant252?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" width="100%" height="250px" />
   </a>
 </p>
 
