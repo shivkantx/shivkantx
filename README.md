@@ -44,40 +44,6 @@
 
 ---
 
-### 📈 Coding Profiles
-
-#### 🟠 LeetCode
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/shivkant252?theme=dark&ext=contest" alt="LeetCode Stats" width="80%" />
-</p>
-
----
-
-#### 🟢 GeeksforGeeks
-
-<p align="center">
-  <a href="https://www.geeksforgeeks.org/user/shivkantllj0/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GFG Profile" width="96" />
-    <br />
-    <img src="https://img.shields.io/badge/Visit-GFG_Profile-brightgreen?style=for-the-badge" width="80%" />
-  </a>
-</p>
-
----
-
-#### 🔵 Coding Ninjas Code360
-
-<p align="center">
-  <a href="https://www.naukri.com/code360/profile/shivkantpal" target="_blank">
-    <img src="https://ninjasfiles.s3.amazonaws.com/0000000000000723.jpg" alt="Coding Ninjas Logo" width="96" />
-    <br />
-    <img src="https://img.shields.io/badge/View-My_Code360_Profile-orange?style=for-the-badge" width="80%" />
-  </a>
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -92,6 +58,33 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivkantx&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true" />
+</p>
+
+---
+
+### 👨‍💻 Coding Profiles
+
+<!-- LeetCode Stats Graph -->
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/shivkant252?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" width="100%" />
+</p>
+
+<!-- GFG Badge -->
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/user/shivkantllj0/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="110px" alt="GFG Logo" />
+    <br/>
+    <img src="https://img.shields.io/badge/Visit-GFG_Profile-brightgreen?style=for-the-badge" />
+  </a>
+</p>
+
+<!-- Code360 Badge -->
+<p align="center">
+  <a href="https://www.naukri.com/code360/profile/shivkantpal" target="_blank">
+    <img src="https://ninjasfiles.s3.amazonaws.com/0000000000000723.jpg" width="110px" alt="Coding Ninjas Logo" />
+    <br/>
+    <img src="https://img.shields.io/badge/View-My_Code360_Profile-orange?style=for-the-badge" />
+  </a>
 </p>
 
 ---
