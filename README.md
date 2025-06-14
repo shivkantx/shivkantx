@@ -44,23 +44,23 @@
 
 ---
 
-### 📈 Coding Profiles (Full-Width Graphs)
+### 📈 Coding Profiles
 
-#### 🟠 LeetCode (Daily Progress & Contest Stats)
+#### 🟠 LeetCode
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/shivkant252?theme=dark&ext=contest" alt="LeetCode Stats" width="100%" />
+  <img src="https://leetcard.jacoblin.cool/shivkant252?theme=dark&ext=contest" alt="LeetCode Stats" width="80%" />
 </p>
 
 ---
 
-#### 🟢 GeeksforGeeks Profile
+#### 🟢 GeeksforGeeks
 
 <p align="center">
   <a href="https://www.geeksforgeeks.org/user/shivkantllj0/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GFG Profile" width="120" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GFG Profile" width="96" />
     <br />
-    <strong>Visit My GFG Profile</strong>
+    <img src="https://img.shields.io/badge/Visit-GFG_Profile-brightgreen?style=for-the-badge" width="80%" />
   </a>
 </p>
 
@@ -70,9 +70,9 @@
 
 <p align="center">
   <a href="https://www.naukri.com/code360/profile/shivkantpal" target="_blank">
-    <img src="https://ninjasfiles.s3.amazonaws.com/0000000000000723.jpg" alt="Coding Ninjas Logo" width="120" />
+    <img src="https://ninjasfiles.s3.amazonaws.com/0000000000000723.jpg" alt="Coding Ninjas Logo" width="96" />
     <br />
-    <strong>View My Code360 Progress</strong>
+    <img src="https://img.shields.io/badge/View-My_Code360_Profile-orange?style=for-the-badge" width="80%" />
   </a>
 </p>
 
