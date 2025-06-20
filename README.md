@@ -1,25 +1,29 @@
-![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
+<!-- Banner -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="MasterHead" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Shiv Kant</h1>
-<h3 align="center">A Passionate Full-Stack Developer from India</h3>
+<h3 align="center">A Passionate Full-Stack Developer | Django & MERN Enthusiast | Problem Solver</h3>
 
 ---
 
 ### 🚀 About Me
 
-- 💻 Full-stack developer with a focus on **Django** and strong understanding of **MERN** stack  
-- 🧠 Currently improving skills in **Data Structures & Algorithms (DSA)**  
-- 🔭 Working on exciting **web and app development** projects  
-- 💬 Ask me about **React js, JavaScript Core Java, Python, and DSA**  
+- 💻 Full-stack developer with a focus on **Django** and a strong understanding of the **MERN** stack  
+- 🧠 Currently sharpening my skills in **Data Structures & Algorithms (DSA)**  
+- 🔭 Actively building real-world **web and app development** projects  
+- 💬 Ask me about **React.js**, **JavaScript**, **Java**, **Python**, and **DSA**  
 - 📫 Reach me at **shivkant639624@gmail.com**  
-- 📄 [View My Resume](https://drive.google.com/drive/u/1/folders/14Em2sXH0NoRNLuP4zHxldU91W7wI5kVh)  
-- ⚡ Fun fact: I'm a human debugger — always finding and fixing issues!
+- 📄 [📁 View My Resume](https://drive.google.com/drive/u/1/folders/14Em2sXH0NoRNLuP4zHxldU91W7wI5kVh)  
+- ⚡ Fun fact: I'm a human debugger — always finding and fixing issues!  
+- 🌱 Always exploring new technologies to level up my dev game!
 
 ---
 
 ### 📌 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/shiv-kant-036a17289/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
@@ -38,8 +42,8 @@
 
 ### 💻 Languages & Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,java,js,react,nodejs,html,css,tailwind,mysql,git,github,vscode,figma" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,java,js,react,nodejs,express,mongodb,html,css,tailwind,mysql,git,github,vscode,figma,redux" />
 </p>
 
 ---
@@ -64,8 +68,6 @@
 
 ## 🧠 Coding Profiles
 
----
-
 ### 🟧 LeetCode
 
 <p align="center">
@@ -82,7 +84,7 @@
   <a href="https://www.geeksforgeeks.org/user/shivkantllj0/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="90px" alt="GFG Logo" />
     <br/>
-    <img src="https://img.shields.io/badge/Visit-GFG_Profile-brightgreen?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/View-My_GFG_Profile-brightgreen?style=for-the-badge" />
   </a>
 </p>
 
@@ -100,16 +102,18 @@
 
 ---
 
-### ✨ Let's Connect and Collaborate
+## ✨ Let’s Connect and Collaborate
 
 <p align="center">
-  If you have an exciting project, idea, or collaboration in mind — let's connect and build something amazing together!
+  <strong>💡 Got an idea or project in mind? Let's connect and build something amazing together!</strong>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/shivkantx?style=social" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=shivkantx&color=blue" alt="Visitor Count"/>
 </p>
 
 ---
 
-> **Your star can light up my repository — Let's innovate together! 🌟**
+> ⭐ **Your star can light up my repository — Let’s innovate together!**
