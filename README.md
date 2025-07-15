@@ -15,7 +15,7 @@
 - 🔭 Actively building real-world **web and app development** projects  
 - 💬 Ask me about **React.js**, **JavaScript**, **Java**, **Python**, and **DSA**  
 - 📫 Reach me at **shivkant639624@gmail.com**  
-- 📄 [📁 View My Resume](https://drive.google.com/drive/u/1/folders/14Em2sXH0NoRNLuP4zHxldU91W7wI5kVh)  
+- 📄 [📁 View My Resume](https://drive.google.com/file/d/130NzNqZBx3Bni9SuBae2TO3MVNSk6-OA/view?usp=sharing)  
 - ⚡ Fun fact: I'm a human debugger — always finding and fixing issues!  
 - 🌱 Always exploring new technologies to level up my dev game!
 
