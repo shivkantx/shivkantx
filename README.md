@@ -21,48 +21,65 @@
 
 ## 🧭 About Me
 
-<img align="right" src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="320"/>
+<table>
+<tr>
+<td width="60%" valign="top">
 
-```yaml
-role:       Full-Stack Developer
-stack:      Django · MERN · Next.js · TanStack Query
-sharpening: Data Structures & Algorithms
-believes:   "Learn by building, break things on purpose"
-fun_fact:   "Human debugger — always fixing things"
-```
+### Hey, I'm Shiv 🙋‍♂️
 
-- 🔭 Currently building full-stack apps with **Next.js**, **TanStack Query** and **MongoDB**
-- 🎨 Strong pull toward **dark, bold UI** — if it's not moody, it's not shipped
-- 🧠 Deep in **DSA** practice — one problem, one pattern at a time
-- 💬 Ask me about **React**, **Django**, **Node.js**, **JavaScript**, or **DSA**
-- 📫 Reach me at **shivkant639624@gmail.com**
+I'm a full-stack developer who learns fastest by **shipping real projects** — currently deep in **Next.js**, **TanStack Query**, and **MongoDB**, with **Django** and the **MERN** stack as home turf.
 
-<br clear="right"/>
+> 🎯 *"Learn by building, break things on purpose."*
+
+<table>
+<tr><td>🔭</td><td><b>Building</b></td><td>Full-stack dashboards &amp; CRUD apps with bold, dark UI</td></tr>
+<tr><td>🧠</td><td><b>Sharpening</b></td><td>Data Structures &amp; Algorithms</td></tr>
+<tr><td>💬</td><td><b>Ask me about</b></td><td>React · Django · Node.js · JavaScript · DSA</td></tr>
+<tr><td>⚡</td><td><b>Fun fact</b></td><td>Human debugger — always fixing something</td></tr>
+<tr><td>📫</td><td><b>Reach me</b></td><td><a href="mailto:shivkant639624@gmail.com">shivkant639624@gmail.com</a></td></tr>
+</table>
+
+</td>
+<td width="40%" align="center">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
+</td>
+</tr>
+</table>
 
 ## 🧰 Tech Stack
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center" valign="top" width="25%">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-<br/>
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-<br/>
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+**🎨 Frontend**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=js,react,nextjs,redux,tailwind&theme=dark&perline=3" />
 
-</div>
+</td>
+<td align="center" valign="top" width="25%">
+
+**⚙️ Backend**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,python,java&theme=dark&perline=3" />
+
+</td>
+<td align="center" valign="top" width="25%">
+
+**🗄️ Database**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark&perline=3" />
+
+</td>
+<td align="center" valign="top" width="25%">
+
+**🛠️ Tools**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,figma,postman&theme=dark&perline=3" />
+
+</td>
+</tr>
+</table>
 
 <br/>
 
