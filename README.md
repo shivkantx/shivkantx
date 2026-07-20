@@ -25,16 +25,16 @@
 <tr>
 <td width="60%" valign="top">
 
-### Hey, I'm Shiv 🙋‍♂️
+<h3>Hey, I'm Shiv 🙋‍♂️</h3>
 
-I'm a full-stack developer who learns fastest by **shipping real projects** — currently deep in **Next.js**, **TanStack Query**, and **MongoDB**, with **Django** and the **MERN** stack as home turf.
+<p>I'm a full-stack developer who learns fastest by <b>shipping real projects</b> — currently deep in <b>Next.js</b>, <b>TanStack Query</b>, and <b>MongoDB</b>, with <b>Django</b> and the <b>MERN</b> stack as home turf.</p>
 
-> 🎯 *"Learn by building, break things on purpose."*
+<blockquote>🎯 <i>"Learn by building, break things on purpose."</i></blockquote>
 
 <table>
 <tr><td>🔭</td><td><b>Building</b></td><td>Full-stack dashboards &amp; CRUD apps with bold, dark UI</td></tr>
-<tr><td>🧠</td><td><b>Sharpening</b></td><td>Data Structures &amp; Algorithms</td></tr>
-<tr><td>💬</td><td><b>Ask me about</b></td><td>React · Django · Node.js · JavaScript · DSA</td></tr>
+<tr><td>🧠</td><td><b>Sharpening</b></td><td>DSA — practiced and solved in <b>Core Java</b></td></tr>
+<tr><td>💬</td><td><b>Ask me about</b></td><td>React · Django · Node.js · Java · JavaScript · DSA</td></tr>
 <tr><td>⚡</td><td><b>Fun fact</b></td><td>Human debugger — always fixing something</td></tr>
 <tr><td>📫</td><td><b>Reach me</b></td><td><a href="mailto:shivkant639624@gmail.com">shivkant639624@gmail.com</a></td></tr>
 </table>
@@ -50,28 +50,37 @@ I'm a full-stack developer who learns fastest by **shipping real projects** — 
 
 <table align="center">
 <tr>
-<td align="center" valign="top" width="25%">
+<td align="center" valign="top" width="20%">
 
 **🎨 Frontend**
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=js,react,nextjs,redux,tailwind&theme=dark&perline=3" />
 
 </td>
-<td align="center" valign="top" width="25%">
+<td align="center" valign="top" width="20%">
 
 **⚙️ Backend**
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,python,java&theme=dark&perline=3" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,python&theme=dark&perline=3" />
 
 </td>
-<td align="center" valign="top" width="25%">
+<td align="center" valign="top" width="20%">
+
+**🧩 DSA &amp; Core**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=java&theme=dark&perline=3" />
+<br/>
+<sub>Core Java — DSA practice</sub>
+
+</td>
+<td align="center" valign="top" width="20%">
 
 **🗄️ Database**
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark&perline=3" />
 
 </td>
-<td align="center" valign="top" width="25%">
+<td align="center" valign="top" width="20%">
 
 **🛠️ Tools**
 <br/><br/>
@@ -85,36 +94,101 @@ I'm a full-stack developer who learns fastest by **shipping real projects** — 
 
 ## 🚀 Featured Projects
 
-<div align="center">
-<table>
+### ⚙️ Backend Highlight
+
+<table align="center">
 <tr>
-<td width="50%">
-<a href="https://github.com/shivkantx/Queue-Management-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shivkantx&repo=Queue-Management-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" />
-</a>
-</td>
-<td width="50%">
-<a href="https://github.com/shivkantx">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shivkantx&repo=user-management-app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&show_owner=true" />
-</a>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<a href="https://github.com/shivkantx">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shivkantx&repo=notes-app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&show_owner=true" />
-</a>
-</td>
-<td width="50%">
-<a href="https://github.com/shivkantx">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shivkantx&repo=contact-form-app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&show_owner=true" />
-</a>
+<td width="100%">
+
+**🎥 VideoTube**
+<br/>
+A YouTube-inspired backend service — handles video upload, streaming, authentication, subscriptions, and user interactions through a clean, scalable REST API.
+
+`Node.js` `Express` `MongoDB` `JWT` `Cloudinary`
+
+[![GitHub](https://img.shields.io/badge/Repo-VideoTube-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shivkantx/VideoTube)
+
 </td>
 </tr>
 </table>
-</div>
 
-<p align="center"><sub>⚠️ Pin cards for repos that don't exist yet under this exact name will render blank — send me the real repo names and I'll swap them in.</sub></p>
+### 🌐 Full-Stack & Frontend
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+**🎫 Queue Management System**
+<br/>
+Real-time queue management — add customers, move them through Waiting → In-Service → Completed, with instant UI updates.
+
+`React` `Tailwind CSS` `Vite`
+
+[![Live](https://img.shields.io/badge/Live-Demo-22C55E?style=flat-square&logo=vercel&logoColor=white)](https://queue-management-system-ten.vercel.app/)
+[![GitHub](https://img.shields.io/badge/Repo-View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shivkantx/Queue-Management-System)
+
+</td>
+<td width="50%" valign="top">
+
+**💼 Portfolio Website**
+<br/>
+Personal developer portfolio showcasing projects, skills, and experience with a bold, dark-themed design.
+
+`React` `JavaScript` `CSS`
+
+[![Live](https://img.shields.io/badge/Live-Demo-22C55E?style=flat-square&logo=vercel&logoColor=white)](https://myportfolio-mu-self-66.vercel.app/)
+[![GitHub](https://img.shields.io/badge/Repo-View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shivkantx)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**📝 Full-Stack Notes App**
+<br/>
+A full-CRUD notes application with colorful rotating card themes and a code-editor-inspired create form.
+
+`Next.js` `MongoDB` `Mongoose`
+
+[![Live](https://img.shields.io/badge/Live-Demo-22C55E?style=flat-square&logo=vercel&logoColor=white)](https://fullstack-notes-app-blue.vercel.app/)
+[![GitHub](https://img.shields.io/badge/Repo-View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shivkantx)
+
+</td>
+<td width="50%" valign="top">
+
+**☁️ Cloudinary Media App**
+<br/>
+An authenticated media app with sign-in/sign-up flows and Cloudinary-powered image upload and hosting.
+
+`Next.js` `Cloudinary` `Auth`
+
+[![Live](https://img.shields.io/badge/Live-Demo-22C55E?style=flat-square&logo=vercel&logoColor=white)](https://cloudinary-ssh.vercel.app/)
+[![GitHub](https://img.shields.io/badge/Repo-View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shivkantx)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**💬 StackOverflow Clone**
+<br/>
+A Q&A platform inspired by StackOverflow — ask questions, post answers, and interact with a community-driven backend.
+
+`Next.js` `Appwrite`
+
+[![Live](https://img.shields.io/badge/Live-Demo-22C55E?style=flat-square&logo=vercel&logoColor=white)](https://stackoverflow-appwrite-three.vercel.app/)
+[![GitHub](https://img.shields.io/badge/Repo-View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shivkantx)
+
+</td>
+<td width="50%" valign="top">
+
+<sub>More projects on the way — this space is reserved for what's next. 🚧</sub>
+
+</td>
+</tr>
+</table>
+
+<p align="center"><sub>⚠️ Some "Repo" buttons above point to your profile as a placeholder — send me the exact repo names for Portfolio, Notes App, Cloudinary App, and StackOverflow Clone, and I'll link them directly.</sub></p>
 
 <br/>
 
