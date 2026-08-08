@@ -2,11 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:38BDF8&height=200&section=header&text=SHIV%20KANT&fontSize=60&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn&desc=Full-Stack%20Developer%20building%20with%20Next.js%20%C2%B7%20React%20%C2%B7%20Django&descAlignY=68&descColor=94A3B8&descSize=17" width="100%"/>
 
-</div>
-
 <br/>
-
-<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shiv-kant-036a17289/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/shivkant252/)
@@ -14,6 +10,8 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/shivkant252)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@shivkantpal8679)
 [![Resume](https://img.shields.io/badge/-Resume-38BDF8?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/130NzNqZBx3Bni9SuBae2TO3MVNSk6-OA/view?usp=sharing)
+
+<img src="https://komarev.com/ghpvc/?username=shivkantx&style=flat-square&color=38BDF8&labelColor=0D1117" alt="Profile views"/>
 
 </div>
 
@@ -25,19 +23,19 @@
 <tr>
 <td width="60%" valign="top">
 
-<h3>Hey, I'm Shiv 🙋‍♂️</h3>
+### Hey, I'm Shiv 🙋‍♂️
 
-<p>I'm a full-stack developer who learns fastest by <b>shipping real projects</b> — currently deep in <b>Next.js</b>, <b>TanStack Query</b>, and <b>MongoDB</b>, with <b>Django</b> and the <b>MERN</b> stack as home turf.</p>
+I'm a full-stack developer who learns fastest by **shipping real projects** — currently deep in **Next.js**, **TanStack Query**, and **MongoDB**, with **Django** and the **MERN** stack as home turf.
 
-<blockquote>🎯 <i>"Learn by building, break things on purpose."</i></blockquote>
+> 🎯 *"Learn by building, break things on purpose."*
 
-<table>
-<tr><td>🔭</td><td><b>Building</b></td><td>Full-stack dashboards &amp; CRUD apps with bold, dark UI</td></tr>
-<tr><td>🧠</td><td><b>Sharpening</b></td><td>DSA — practiced and solved in <b>Core Java</b></td></tr>
-<tr><td>💬</td><td><b>Ask me about</b></td><td>React · Django · Node.js · Java · JavaScript · DSA</td></tr>
-<tr><td>⚡</td><td><b>Fun fact</b></td><td>Human debugger — always fixing something</td></tr>
-<tr><td>📫</td><td><b>Reach me</b></td><td><a href="mailto:shivkant639624@gmail.com">shivkant639624@gmail.com</a></td></tr>
-</table>
+| | | |
+|:---:|---|---|
+| 🔭 | **Building** | Full-stack dashboards & CRUD apps with bold, dark UI |
+| 🧠 | **Sharpening** | DSA — practiced and solved in **Core Java** |
+| 💬 | **Ask me about** | React · Django · Node.js · Java · JavaScript · DSA |
+| ⚡ | **Fun fact** | Human debugger — always fixing something |
+| 📫 | **Reach me** | [shivkant639624@gmail.com](mailto:shivkant639624@gmail.com) |
 
 </td>
 <td width="40%" align="center">
@@ -46,6 +44,8 @@
 </tr>
 </table>
 
+<br/>
+
 ## 🧰 Tech Stack
 
 <table align="center">
@@ -53,21 +53,21 @@
 <td align="center" valign="top" width="20%">
 
 **🎨 Frontend**
-<br/><br/>
+
 <img src="https://skillicons.dev/icons?i=js,react,nextjs,redux,tailwind&theme=dark&perline=3" />
 
 </td>
 <td align="center" valign="top" width="20%">
 
 **⚙️ Backend**
-<br/><br/>
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,django,python&theme=dark&perline=3" />
 
 </td>
 <td align="center" valign="top" width="20%">
 
-**🧩 DSA &amp; Core**
-<br/><br/>
+**🧩 DSA & Core**
+
 <img src="https://skillicons.dev/icons?i=java&theme=dark&perline=3" />
 <br/>
 <sub>Core Java — DSA practice</sub>
@@ -76,14 +76,14 @@
 <td align="center" valign="top" width="20%">
 
 **🗄️ Database**
-<br/><br/>
+
 <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark&perline=3" />
 
 </td>
 <td align="center" valign="top" width="20%">
 
 **🛠️ Tools**
-<br/><br/>
+
 <img src="https://skillicons.dev/icons?i=git,github,figma,postman&theme=dark&perline=3" />
 
 </td>
@@ -101,7 +101,7 @@
 <td width="100%">
 
 **🎥 VideoTube**
-<br/>
+
 A YouTube-inspired backend service — handles video upload, streaming, authentication, subscriptions, and user interactions through a clean, scalable REST API.
 
 `Node.js` `Express` `MongoDB` `JWT` `Cloudinary`
@@ -119,7 +119,7 @@ A YouTube-inspired backend service — handles video upload, streaming, authenti
 <td width="50%" valign="top">
 
 **🎫 Queue Management System**
-<br/>
+
 Real-time queue management — add customers, move them through Waiting → In-Service → Completed, with instant UI updates.
 
 `React` `Tailwind CSS` `Vite`
@@ -131,7 +131,7 @@ Real-time queue management — add customers, move them through Waiting → In-S
 <td width="50%" valign="top">
 
 **💼 Portfolio Website**
-<br/>
+
 Personal developer portfolio showcasing projects, skills, and experience with a bold, dark-themed design.
 
 `React` `JavaScript` `CSS`
@@ -145,7 +145,7 @@ Personal developer portfolio showcasing projects, skills, and experience with a 
 <td width="50%" valign="top">
 
 **📝 Full-Stack Notes App**
-<br/>
+
 A full-CRUD notes application with colorful rotating card themes and a code-editor-inspired create form.
 
 `Next.js` `MongoDB` `Mongoose`
@@ -157,7 +157,7 @@ A full-CRUD notes application with colorful rotating card themes and a code-edit
 <td width="50%" valign="top">
 
 **☁️ Cloudinary Media App**
-<br/>
+
 An authenticated media app with sign-in/sign-up flows and Cloudinary-powered image upload and hosting.
 
 `Next.js` `Cloudinary` `Auth`
@@ -171,7 +171,7 @@ An authenticated media app with sign-in/sign-up flows and Cloudinary-powered ima
 <td width="50%" valign="top">
 
 **💬 StackOverflow Clone**
-<br/>
+
 A Q&A platform inspired by StackOverflow — ask questions, post answers, and interact with a community-driven backend.
 
 `Next.js` `Appwrite`
@@ -233,7 +233,7 @@ A Q&A platform inspired by StackOverflow — ask questions, post answers, and in
 
 <img src="https://raw.githubusercontent.com/shivkantx/shivkantx/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-<sub>⚠️ This needs a one-time GitHub Actions setup (below) before it will render — until then this row will show broken.</sub>
+<sub>⚠️ This needs a one-time GitHub Actions setup before it will render — until then this row will show broken.</sub>
 
 </div>
 
@@ -243,8 +243,8 @@ A Q&A platform inspired by StackOverflow — ask questions, post answers, and in
 
 ### ✨ Let's build something together
 
-<img src="https://komarev.com/ghpvc/?username=shivkantx&style=for-the-badge&color=38BDF8&labelColor=0D1117" />
 <img src="https://img.shields.io/github/stars/shivkantx?style=for-the-badge&color=38BDF8&labelColor=0D1117" />
+<img src="https://img.shields.io/github/followers/shivkantx?style=for-the-badge&color=38BDF8&labelColor=0D1117" />
 
 > ⭐ If any of this resonates — drop a star, say hi, or send a PR.
 
