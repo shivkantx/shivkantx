@@ -1,170 +1,258 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,60:0D1117,100:00FF9C&height=150&section=header&text=%3E_%20shiv_kant&fontSize=54&fontColor=00FF9C&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20Next.js%20%7C%20React.js%20%7C%20JavaScript&descAlignY=72&descSize=18&descColor=C9D1D9" width="100%" alt="shiv_kant terminal header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:7C3AED,100:F472B6&height=300&section=header&text=SHIV%20KANT&fontSize=84&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Next.js%20%7C%20React.js%20%7C%20JavaScript&descAlignY=62&descSize=24&descColor=F5F3FF" width="100%" alt="Shiv Kant header"/>
 
 <a href="https://myportfolio-mu-self-66.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=00FF9C&background=0D111700&center=true&vCenter=true&width=760&height=48&lines=%24+whoami;Shiv+Kant+%E2%80%94+Full+Stack+Developer;%24+cat+stack.txt;Next.js+%C2%B7+React+%C2%B7+Node.js+%C2%B7+MongoDB+%C2%B7+Core+Java;%24+status;Open+to+Junior+Full+Stack+roles" alt="Terminal typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3200&pause=1000&color=A78BFA&center=true&vCenter=true&width=900&height=56&lines=Building+full+stack+apps+with+Next.js+and+React;Authentication+%C2%B7+CRUD+%C2%B7+MongoDB+%C2%B7+Cloudinary;Core+Java+and+JavaScript+problem+solver;Open+to+Junior+Full+Stack+developer+roles" alt="Typing animation" />
 </a>
 
-<br/>
+<br/><br/>
 
-![Status](https://img.shields.io/badge/status-open%20to%20work-00FF9C?style=for-the-badge&labelColor=0D1117)
-![Role](https://img.shields.io/badge/target-Junior%20Full%20Stack%20%7C%20Next.js%20%7C%20React-00FF9C?style=for-the-badge&labelColor=0D1117)
+<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-Junior%20Full%20Stack%20%7C%20Next.js%20%7C%20React-7C3AED?style=for-the-badge&labelColor=1E1B4B" alt="Open to work"/>
+<img src="https://img.shields.io/badge/NOW-Associate%20Analyst%20%40%20GlobalLogic-F472B6?style=for-the-badge&labelColor=1E1B4B" alt="Current role"/>
 
-<br/>
+<br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FF9C?style=for-the-badge&logo=vercel&logoColor=0D1117)](https://myportfolio-mu-self-66.vercel.app/)
-[![Resume](https://img.shields.io/badge/Resume-0D1117?style=for-the-badge&logo=googledrive&logoColor=00FF9C&labelColor=0D1117)](https://drive.google.com/drive/folders/1HO-MYGPurAKVENu4j6nHqXwwkz-XRhNW)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=Linkedin&logoColor=00FF9C&labelColor=0D1117)](https://www.linkedin.com/in/shiv-kant-036a17289/)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=Gmail&logoColor=00FF9C&labelColor=0D1117)](mailto:shivkant639624@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=LeetCode&logoColor=00FF9C&labelColor=0D1117)](https://leetcode.com/u/shivkant252/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0D1117?style=for-the-badge&logo=geeksforgeeks&logoColor=00FF9C&labelColor=0D1117)](https://www.geeksforgeeks.org/user/shivkantllj0/)
-
-</div>
-
-<br/>
-
-## `~/about`
-
-```js
-const shivKant = {
-  title: "Full Stack Developer",
-  currentRole: "Associate Analyst @ GlobalLogic (AI and ML data operations)",
-  education: "MCA, Galgotias University",
-  languages: ["JavaScript (ES6+)", "Core Java"],
-  frontend: ["Next.js", "React.js", "Tailwind CSS", "TanStack Query"],
-  backend: ["Node.js", "Express.js", "REST APIs", "JWT"],
-  database: ["MongoDB", "Mongoose", "Appwrite"],
-  practicing: "Data structures and algorithms in Core Java",
-  lookingFor: "Junior Full Stack, Next.js and React developer roles",
-  motto: "Learn by building, break things on purpose",
-};
-```
-
-I'm a **Full Stack Developer** with an **MCA** who builds and deploys applications with **Next.js, React, MongoDB and Appwrite**, covering authentication, CRUD workflows, cloud media handling and responsive Tailwind CSS interfaces. At **GlobalLogic** I work in AI and machine learning data operations, which gives me a disciplined, detail focused approach to code.
-
-<br/>
-
-## `~/stack`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,java,nextjs,react,tailwind,html,css,nodejs,express,mongodb,git,github,postman,vercel,vscode&theme=dark&perline=8" alt="Tech stack icons" />
-
-<sub><b>Also working with:</b> shadcn/ui · Mongoose · Appwrite · Cloudinary · Better Auth · JWT</sub>
+<a href="https://myportfolio-mu-self-66.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://drive.google.com/drive/folders/1HO-MYGPurAKVENu4j6nHqXwwkz-XRhNW"><img src="https://img.shields.io/badge/RESUME-F472B6?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
+<a href="https://www.linkedin.com/in/shiv-kant-036a17289/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:shivkant639624@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/></a>
+<a href="https://leetcode.com/u/shivkant252/"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/></a>
+<a href="https://www.geeksforgeeks.org/user/shivkantllj0/"><img src="https://img.shields.io/badge/GEEKSFORGEEKS-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
 
 </div>
 
 <br/>
 
-## `~/projects`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:F472B6&height=3&section=header" width="100%" alt=""/>
 
-<table>
+<h2 align="center">✦ ABOUT ME ✦</h2>
+
+<p align="center">
+I'm a <b>Full Stack Developer</b> with an <b>MCA</b> and a strong foundation in <b>JavaScript (ES6+), Core Java, data structures and algorithms</b>.<br/>
+I build and deploy full stack applications with <b>Next.js, React, MongoDB and Appwrite</b>, covering authentication,<br/>
+CRUD workflows, cloud media handling and responsive Tailwind CSS interfaces.
+</p>
+
+<p align="center">
+I work as an <b>Associate Analyst at GlobalLogic</b> in AI and machine learning data operations, which gives me a<br/>
+disciplined, detail focused approach to code. I'm now looking for my first <b>Junior Full Stack, Next.js or React developer</b> role.
+</p>
+
+<table align="center" width="100%">
+<tr>
+<td align="center" width="25%"><h2>18</h2><b>Public Repositories</b><br/><sub>on GitHub</sub></td>
+<td align="center" width="25%"><h2>5</h2><b>Live Deployments</b><br/><sub>on Vercel</sub></td>
+<td align="center" width="25%"><h2>MCA</h2><b>Computer Applications</b><br/><sub>Galgotias University</sub></td>
+<td align="center" width="25%"><h2>Java</h2><b>DSA Practice</b><br/><sub>LeetCode and GeeksforGeeks</sub></td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:F472B6&height=3&section=header" width="100%" alt=""/>
+
+<h2 align="center">✦ TECH STACK ✦</h2>
+
+<table align="center" width="100%">
+<tr>
+<td width="20%" align="center" valign="top"><h3>💻 Languages</h3><img src="https://skillicons.dev/icons?i=js,java&theme=dark&perline=3" alt="Languages"/><br/><sub>JavaScript (ES6+)<br/>Core Java</sub></td>
+<td width="20%" align="center" valign="top"><h3>🎨 Frontend</h3><img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css&theme=dark&perline=3" alt="Frontend"/><br/><sub>Next.js · React.js<br/>Tailwind CSS · HTML · CSS</sub></td>
+<td width="20%" align="center" valign="top"><h3>⚙️ Backend</h3><img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark&perline=3" alt="Backend"/><br/><sub>Node.js · Express.js<br/>REST APIs · JWT</sub></td>
+<td width="20%" align="center" valign="top"><h3>🗄️ Database</h3><img src="https://skillicons.dev/icons?i=mongodb&theme=dark&perline=3" alt="Database"/><br/><sub>MongoDB · Mongoose<br/>Appwrite</sub></td>
+<td width="20%" align="center" valign="top"><h3>🛠️ Tools</h3><img src="https://skillicons.dev/icons?i=git,github,postman,vercel,vscode&theme=dark&perline=3" alt="Tools"/><br/><sub>Git · GitHub · Postman<br/>Vercel · VS Code</sub></td>
+</tr>
+</table>
+
+<p align="center">
+<sub><b>Also working with:</b> TanStack Query · shadcn/ui · Cloudinary · Better Auth &nbsp;|&nbsp; <b>Fundamentals:</b> Data Structures · Algorithms · OOP · Responsive Design</sub>
+</p>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:F472B6&height=3&section=header" width="100%" alt=""/>
+
+<h2 align="center">✦ FEATURED PROJECTS ✦</h2>
+
+<table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
-
-#### 📂 cloudinary-media-app
-Authenticated media app with complete sign in and sign up flows and Cloudinary powered image upload and hosting.
-
-`Next.js` `Cloudinary` `Auth` `Vercel`
-
-[![Live](https://img.shields.io/badge/live-demo-00FF9C?style=flat-square&labelColor=0D1117)](https://cloudinary-ssh.vercel.app/)
-[![Code](https://img.shields.io/badge/source-code-C9D1D9?style=flat-square&labelColor=0D1117)](https://github.com/shivkantx?tab=repositories)
-
+<a href="https://cloudinary-ssh.vercel.app/"><img src="https://image.thum.io/get/width/800/crop/520/noanimate/https://cloudinary-ssh.vercel.app/" width="100%" alt="Cloudinary Media App preview"/></a>
+<h3>☁️ Cloudinary Media App</h3>
+<p>An authenticated media application where users sign in and manage uploaded images, with Cloudinary handling storage and hosting.</p>
+<p>▹ Complete sign in and sign up flows<br/>▹ Image upload, storage and hosting with Cloudinary<br/>▹ Production deployment on Vercel</p>
+<p><code>Next.js</code> <code>Cloudinary</code> <code>Auth</code> <code>Vercel</code></p>
+<p><a href="https://cloudinary-ssh.vercel.app/"><img src="https://img.shields.io/badge/LIVE-DEMO-7C3AED?style=for-the-badge&labelColor=1E1B4B" alt="Live demo"/></a> <a href="https://github.com/shivkantx?tab=repositories"><img src="https://img.shields.io/badge/SOURCE-CODE-F472B6?style=for-the-badge&labelColor=1E1B4B" alt="Source code"/></a></p>
 </td>
 <td width="50%" valign="top">
-
-#### 📂 stackflow
-Stack Overflow style Q&A platform where users ask questions and post answers, with Appwrite handling the backend.
-
-`Next.js` `Appwrite` `Tailwind CSS` `Vercel`
-
-[![Live](https://img.shields.io/badge/live-demo-00FF9C?style=flat-square&labelColor=0D1117)](https://stackoverflow-appwrite-three.vercel.app/)
-[![Code](https://img.shields.io/badge/source-code-C9D1D9?style=flat-square&labelColor=0D1117)](https://github.com/shivkantx?tab=repositories)
-
+<a href="https://stackoverflow-appwrite-three.vercel.app/"><img src="https://image.thum.io/get/width/800/crop/520/noanimate/https://stackoverflow-appwrite-three.vercel.app/" width="100%" alt="StackFlow preview"/></a>
+<h3>💬 StackFlow</h3>
+<p>A Stack Overflow style community platform where users ask questions and post answers, with Appwrite providing the backend.</p>
+<p>▹ Question and answer workflows<br/>▹ User authentication through Appwrite<br/>▹ Responsive Tailwind CSS interface on Vercel</p>
+<p><code>Next.js</code> <code>Appwrite</code> <code>Tailwind CSS</code> <code>Vercel</code></p>
+<p><a href="https://stackoverflow-appwrite-three.vercel.app/"><img src="https://img.shields.io/badge/LIVE-DEMO-7C3AED?style=for-the-badge&labelColor=1E1B4B" alt="Live demo"/></a> <a href="https://github.com/shivkantx?tab=repositories"><img src="https://img.shields.io/badge/SOURCE-CODE-F472B6?style=for-the-badge&labelColor=1E1B4B" alt="Source code"/></a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-#### 📂 notes-app
-Full CRUD notes application with dark themed rotating color cards and a code editor style create form.
-
-`Next.js` `MongoDB` `Mongoose` `Vercel`
-
-[![Live](https://img.shields.io/badge/live-demo-00FF9C?style=flat-square&labelColor=0D1117)](https://fullstack-notes-app-blue.vercel.app/)
-[![Code](https://img.shields.io/badge/source-code-C9D1D9?style=flat-square&labelColor=0D1117)](https://github.com/shivkantx?tab=repositories)
-
+<a href="https://fullstack-notes-app-blue.vercel.app/"><img src="https://image.thum.io/get/width/800/crop/520/noanimate/https://fullstack-notes-app-blue.vercel.app/" width="100%" alt="Notes App preview"/></a>
+<h3>📝 Notes App</h3>
+<p>A full CRUD notes application with a dark interface, colorful rotating card themes and a create form inspired by a code editor.</p>
+<p>▹ Create, read, update and delete with MongoDB and Mongoose<br/>▹ Dark themed cards with a rotating color palette<br/>▹ Code editor style create form on Vercel</p>
+<p><code>Next.js</code> <code>MongoDB</code> <code>Mongoose</code> <code>Tailwind CSS</code></p>
+<p><a href="https://fullstack-notes-app-blue.vercel.app/"><img src="https://img.shields.io/badge/LIVE-DEMO-7C3AED?style=for-the-badge&labelColor=1E1B4B" alt="Live demo"/></a> <a href="https://github.com/shivkantx?tab=repositories"><img src="https://img.shields.io/badge/SOURCE-CODE-F472B6?style=for-the-badge&labelColor=1E1B4B" alt="Source code"/></a></p>
 </td>
 <td width="50%" valign="top">
-
-#### 📂 portfolio-website
-Responsive, component based developer portfolio showcasing projects, skills and experience.
-
-`React` `JavaScript` `Tailwind CSS` `Vercel`
-
-[![Live](https://img.shields.io/badge/live-demo-00FF9C?style=flat-square&labelColor=0D1117)](https://myportfolio-mu-self-66.vercel.app/)
-[![Code](https://img.shields.io/badge/source-code-C9D1D9?style=flat-square&labelColor=0D1117)](https://github.com/shivkantx/myportfolio)
-
+<a href="https://myportfolio-mu-self-66.vercel.app/"><img src="https://image.thum.io/get/width/800/crop/520/noanimate/https://myportfolio-mu-self-66.vercel.app/" width="100%" alt="Portfolio preview"/></a>
+<h3>💼 Portfolio Website</h3>
+<p>My personal developer portfolio, built as a responsive, component based React application showcasing projects, skills and experience.</p>
+<p>▹ Reusable component architecture<br/>▹ Fully responsive on desktop and mobile<br/>▹ Deployed on Vercel</p>
+<p><code>React</code> <code>JavaScript</code> <code>Tailwind CSS</code> <code>Vercel</code></p>
+<p><a href="https://myportfolio-mu-self-66.vercel.app/"><img src="https://img.shields.io/badge/LIVE-DEMO-7C3AED?style=for-the-badge&labelColor=1E1B4B" alt="Live demo"/></a> <a href="https://github.com/shivkantx/myportfolio"><img src="https://img.shields.io/badge/SOURCE-CODE-F472B6?style=for-the-badge&labelColor=1E1B4B" alt="Source code"/></a></p>
 </td>
 </tr>
 </table>
 
-**More:** [Queue Management System](https://queue-management-system-ten.vercel.app/) · [Razorpay UI Clone](https://github.com/shivkantx/Razorpay-UI-Cloan) · [VideoTube API](https://github.com/shivkantx/VideoTube) · [All repositories](https://github.com/shivkantx?tab=repositories)
+<h3 align="center">🗂️ More Work</h3>
+
+<table align="center" width="100%">
+<tr>
+<td width="33%" valign="top" align="center">
+<b>🎫 Queue Management System</b><br/>
+<sub>Real time queue where customers move through Waiting, In Service and Completed</sub><br/><br/>
+<code>React</code> <code>Tailwind CSS</code> <code>Vite</code><br/><br/>
+<a href="https://queue-management-system-ten.vercel.app/">Live Demo</a> · <a href="https://github.com/shivkantx/Queue-Management-System">Code</a>
+</td>
+<td width="33%" valign="top" align="center">
+<b>🎥 VideoTube</b><br/>
+<sub>YouTube inspired backend REST API with authentication, uploads and subscriptions</sub><br/><br/>
+<code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>JWT</code><br/><br/>
+<a href="https://github.com/shivkantx/VideoTube">Code</a>
+</td>
+<td width="33%" valign="top" align="center">
+<b>💳 Razorpay UI Clone</b><br/>
+<sub>Payment page interface clone built with reusable components</sub><br/><br/>
+<code>React</code> <code>Tailwind CSS</code><br/><br/>
+<a href="https://github.com/shivkantx/Razorpay-UI-Cloan">Code</a>
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/shivkantx?tab=repositories"><img src="https://img.shields.io/badge/BROWSE%20ALL%20REPOSITORIES-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=1E1B4B" alt="Browse all repositories"/></a>
+</p>
 
 <br/>
 
-## `~/experience`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:F472B6&height=3&section=header" width="100%" alt=""/>
 
-```bash
-$ git log --oneline --career
+<h2 align="center">✦ EXPERIENCE ✦</h2>
 
-* Ongoing    Full Stack Developer, Independent Projects
-             Next.js, MongoDB, Appwrite and Cloudinary apps deployed on Vercel
-
-* 2025-03    Associate Analyst, AI and Machine Learning Data Operations @ GlobalLogic
-             Computer vision and robotics training data, generative AI output
-             evaluation, and quality assurance on labeled datasets
-```
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+<h3>🧑‍💻 Full Stack Developer</h3>
+<p><b>Independent Projects</b> · <a href="https://github.com/shivkantx">GitHub: shivkantx</a><br/><sub>Ongoing</sub></p>
+<p>▹ Design, build and deploy full stack web applications independently, with 18 public repositories on GitHub<br/>
+▹ Ship Next.js applications with authentication, MongoDB and Mongoose, Appwrite backends and Cloudinary media handling, deployed on Vercel<br/>
+▹ Use Git and GitHub for version control and Postman for API testing across projects</p>
+</td>
+<td width="50%" valign="top">
+<h3>🤖 Associate Analyst</h3>
+<p><b>AI and Machine Learning Data Operations</b> · <a href="https://www.globallogic.com/">GlobalLogic</a><br/><sub>March 2025 – Present</sub></p>
+<p>▹ Prepare computer vision and robotics training data by segmenting robot operation videos and annotating actions and object interactions<br/>
+▹ Evaluate generative AI outputs across image segmentation, image similarity, image to image and image to video projects<br/>
+▹ Perform quality assurance on labeled datasets, correcting errors to meet client specifications<br/>
+▹ Apply detailed technical guidelines across multiple concurrent AI and machine learning projects</p>
+</td>
+</tr>
+</table>
 
 <br/>
 
-## `~/education`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:F472B6&height=3&section=header" width="100%" alt=""/>
 
-```bash
-$ ls education/
+<h2 align="center">✦ EDUCATION ✦</h2>
 
-MCA                          Galgotias University                         2022 - 2024
-BCA                          Dharam Samaj College, DBRAU Agra             2019 - 2022
-Complete Web Development     Udemy                                        2025 - 2026
-```
+<table align="center" width="100%">
+<tr>
+<td width="33%" align="center" valign="top">
+<h3>🎓 MCA</h3>
+<b>Master of Computer Applications</b><br/>
+<a href="https://www.galgotiasuniversity.edu.in/">Galgotias University</a>, Greater Noida<br/>
+<sub>Sep 2022 – Jul 2024</sub>
+</td>
+<td width="33%" align="center" valign="top">
+<h3>🎓 BCA</h3>
+<b>Bachelor of Computer Applications</b><br/>
+Dharam Samaj College, Aligarh · <a href="https://dbrau.ac.in/">DBRAU</a>, Agra<br/>
+<sub>2019 – 2022</sub>
+</td>
+<td width="33%" align="center" valign="top">
+<h3>📜 Certification</h3>
+<b>Complete Web Development Course</b><br/>
+Udemy · HTML, CSS, JavaScript, React, Node.js, Express, MongoDB<br/>
+<sub>Aug 2025 – Jan 2026</sub>
+</td>
+</tr>
+</table>
 
 <br/>
 
-## `~/stats`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:F472B6&height=3&section=header" width="100%" alt=""/>
+
+<h2 align="center">✦ PROBLEM SOLVING ✦</h2>
+
+<p align="center">I practice <b>data structures and algorithms in Core Java</b> to sharpen my problem solving for technical interviews.</p>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shivkantx&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9&count_private=true" height="170" alt="GitHub stats" />
-<img src="https://streak-stats.demolab.com/?user=shivkantx&hide_border=true&background=0D1117&stroke=00FF9C&ring=00FF9C&fire=00FF9C&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00FF9C&sideLabels=C9D1D9&dates=8B949E" height="170" alt="GitHub streak" />
-</div>
 
-<div align="center">
 <a href="https://leetcode.com/u/shivkant252/">
-<img src="https://leetcard.jacoblin.cool/shivkant252?theme=dark&font=Karma&ext=heatmap" width="90%" alt="LeetCode stats" />
+<img src="https://leetcard.jacoblin.cool/shivkant252?theme=dark&font=Karma&ext=heatmap" width="95%" alt="LeetCode stats" />
 </a>
+
+<br/><br/>
+
+<a href="https://leetcode.com/u/shivkant252/"><img src="https://img.shields.io/badge/LEETCODE-View_Profile-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/></a>
+<a href="https://www.geeksforgeeks.org/user/shivkantllj0/"><img src="https://img.shields.io/badge/GEEKSFORGEEKS-View_Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
+<a href="https://www.naukri.com/code360/profile/51b51bb6-9490-4ef9-b6d3-fef0fcdf3a60"><img src="https://img.shields.io/badge/CODE360-View_Profile-FF6B00?style=for-the-badge" alt="Code360"/></a>
+
 </div>
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:F472B6&height=3&section=header" width="100%" alt=""/>
+
+<h2 align="center">✦ GITHUB STATS ✦</h2>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=shivkantx&show_icons=true&hide_border=true&bg_color=0F0A1F&title_color=A78BFA&icon_color=F472B6&text_color=E9D5FF&count_private=true" height="180" alt="GitHub stats" />
+<img src="https://streak-stats.demolab.com/?user=shivkantx&hide_border=true&background=0F0A1F&stroke=7C3AED&ring=F472B6&fire=F472B6&currStreakNum=E9D5FF&sideNums=E9D5FF&currStreakLabel=F472B6&sideLabels=E9D5FF&dates=A78BFA" height="180" alt="GitHub streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivkantx&layout=compact&hide_border=true&bg_color=0F0A1F&title_color=A78BFA&text_color=E9D5FF" height="180" alt="Top languages" />
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:F472B6&height=3&section=header" width="100%" alt=""/>
+
+<h2 align="center">✦ LET'S WORK TOGETHER ✦</h2>
+
+<p align="center">
+I'm open to <b>Junior Full Stack, Next.js and React developer</b> roles.<br/>
+Browse my portfolio, read my resume, or send me an email.
+</p>
+
 <div align="center">
 
-```bash
-$ ./hire-me.sh
-> Open to Junior Full Stack, Next.js and React developer roles.
-```
+<a href="https://myportfolio-mu-self-66.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://drive.google.com/drive/folders/1HO-MYGPurAKVENu4j6nHqXwwkz-XRhNW"><img src="https://img.shields.io/badge/RESUME-F472B6?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
+<a href="mailto:shivkant639624@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/shiv-kant-036a17289/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
 
-[Portfolio](https://myportfolio-mu-self-66.vercel.app/) · [Resume](https://drive.google.com/drive/folders/1HO-MYGPurAKVENu4j6nHqXwwkz-XRhNW) · [Email](mailto:shivkant639624@gmail.com) · [LinkedIn](https://www.linkedin.com/in/shiv-kant-036a17289/)
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF9C,40:0D1117,100:0D1117&height=70&section=footer" width="100%" alt="footer"/>
+<img src="https://komarev.com/ghpvc/?username=shivkantx&style=for-the-badge&color=7C3AED&labelColor=1E1B4B&label=PROFILE+VIEWS" alt="Profile views" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F472B6,50:7C3AED,100:1E1B4B&height=140&section=footer" width="100%" alt="footer"/>
 
 </div>
